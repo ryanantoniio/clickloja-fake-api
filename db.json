@@ -2,14 +2,17 @@
   "produtos": [
     { "id": 1, "titulo": "Camisa Seleção Brasileira", "preco": 49.99, "url": "https://..." },
     { "id": 2, "titulo": "Shorts Masculino", "preco": 29.99, "url": "https://..." }
+    { "id": 3, "titulo": "Smartphone Galaxy S23", "preco": 3999.00, "url": "https://..."}
+    { "id": 4, "titulo": "LEGO Star Wars", "preco": 899.99, "url": "https://..." }
+    { "id": 5, "titulo": "Tênis Nike Air Force 1", "preco": 799.99, "url": "https://..." }
   ],
   "produtos_banks": [
     { "id": 1, "nome": "Banco do Brasil", "codigo": "001" }
   ],
   "produtos_cnpj": [
-    { "id": 1, "razaoSocial": "Empresa Exemplo LTDA", "cnpj": "00000000000191" }
+    { "id": 1, "razaoSocial": "ClickLoja LTDA", "cnpj": "00000000000191" }
   ],
   "users": [
-    { "id": 1, "username": "joao@gmail.com", "password": "123456" }
+    { "id": 1, "username": "teste@gmail.com", "password": "123456" }
   ]
 }
