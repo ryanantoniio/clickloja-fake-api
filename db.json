@@ -2,7 +2,7 @@
   "produtos": [
     { "id": 1, "titulo": "Camisa Seleção Brasileira", "preco": 49.99, "url": "https://..." },
     { "id": 2, "titulo": "Shorts Masculino", "preco": 29.99, "url": "https://..." },
-    { "id": 3, "titulo": "Smartphone Galaxy S23", "preco": 3999.00, "url": "https://..."},
+    { "id": 3, "titulo": "Smartphone Galaxy S23", "preco": 3999.00, "url": "https://..." },
     { "id": 4, "titulo": "LEGO Star Wars", "preco": 899.99, "url": "https://..." },
     { "id": 5, "titulo": "Tênis Nike Air Force 1", "preco": 799.99, "url": "https://..." }
   ],
