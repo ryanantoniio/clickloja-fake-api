@@ -1,10 +1,10 @@
 {
   "produtos": [
-  { "id": 1, "titulo": "Camisa Seleção Brasileira", "preco": 49.99, "url": "https://..." },
-  { "id": 2, "titulo": "Shorts Masculino", "preco": 29.99, "url": "https://..." },
-  { "id": 3, "titulo": "Smartphone Galaxy S23", "preco": 3999.00, "url": "https://..." },
-  { "id": 4, "titulo": "LEGO Star Wars", "preco": 899.99, "url": "https://..." },
-  { "id": 5, "titulo": "Tênis Nike Air Force 1", "preco": 799.99, "url": "https://..." }
+  { "id": 1, "titulo": "Camisa Seleção Brasileira", "preco": 49.99, "url": "https://images.tcdn.com.br/img/img_prod/1044362/camisa_futebol_brasil_copa_do_mundo_2026_ii_torced_1_20260115102624_75150200e531.jpg" },
+  { "id": 2, "titulo": "Shorts Masculino", "preco": 29.99, "url": "https://imgcentauro-a.akamaihd.net/1024x1024/97319703A2.jpg" },
+  { "id": 3, "titulo": "Smartphone Galaxy S23", "preco": 3999.00, "url": "https://a-static.mlcdn.com.br/280x210/usado-samsung-galaxy-s23-5g-256gb-verde-bom-trocafone/trocafone/97269/435ebe6ee69e1e1c33612d185a6baa76.jpeg" },
+  { "id": 4, "titulo": "LEGO Star Wars", "preco": 899.99, "url": "https://m.media-amazon.com/images/I/71jRnJ0W2CL.jpg" },
+  { "id": 5, "titulo": "Tênis Nike Air Force 1", "preco": 799.99, "url": "https://imgnike-a.akamaihd.net/768x768/01113751.jpg" }
 ],
   "produtos_banks": [
     { "id": 1, "nome": "Banco do Brasil", "codigo": "001" }
